@@ -1,0 +1,257 @@
+"Emp Code",Name,Role,Manager,Department,KPI,"Total Score"
+PCG0101,"Nishikant Nipane","Senior Individual Contributor","Abhishek Aggarwal",Engineering,Delivery,45.89
+PCG0056,"Reema Vishwani","Individual Contributor","Manojkumar Ranganathan",Operations,Delivery,61.73
+PCG0116,"Tushar  Bankar","Senior Individual Contributor","Abhishek Singh",Engineering,Delivery,45.89
+PCG0063,"Pramod Dubey","Team Lead","Amit Gandhi",Operations,Delivery,28.85
+PCG0087,"Jignashaben  Patel","Individual Contributor","Piyush Neema",Engineering,Delivery,72.86
+PCG0021,"Omkar Khatavkar","Senior Individual Contributor","Abhishek Awale",Engineering,Delivery,38.39
+PCG0076,"Yuvraj Mete","Individual Contributor","Manojkumar Ranganathan",Operations,Delivery,67.85
+PCG0089,"Abhijeet Supekar","Individual Contributor","Krishna Soni",Engineering,Delivery,76.00
+PCG0132,"Nilesh Sutar","Senior Individual Contributor","Abhishek Singh",Engineering,Delivery,35.39
+PCG0126,"Vishwanath Amonkar","Individual Contributor","Kiran Satpute",Operations,Delivery,36.62
+PCG0067,"Sanjay Pawar","Individual Contributor","Nikhil Mehta",Operations,Delivery,76.07
+PCG0015,"Bharat Devre","Senior Individual Contributor","Abhishek Awale",Engineering,Delivery,49.89
+PCG0077,"Tushar Golait","Individual Contributor","Manojkumar Ranganathan",Operations,Delivery,59.32
+PCG0034,"Jyoti Brahamkhatri","Team Lead","Santoshkumar Vishnupurikar",Operations,Delivery,34.45
+PCG0124,"Pradeep Upadhyay","Senior Individual Contributor","Nitin More",Engineering,Delivery,35.39
+PCG0085,"Raju Muke","Individual Contributor","Shama Ugale",Engineering,Delivery,74.50
+PCG0068,"Shailendra Singh","Senior Individual Contributor","Jyoti Brahamkhatri",Operations,Delivery,48.57
+PCG0073,"Prakash Gore","Senior Individual Contributor","Nikhil Mehta",Operations,Delivery,49.90
+PCG0025,"Jinal Gohel","Senior Individual Contributor","Abhishek Awale",Engineering,Delivery,29.39
+PCG0086,"Supriya Ladekar","Individual Contributor","Manojkumar Ranganathan",Operations,Delivery,63.59
+PCG0052,"Shama Ugale","Team Lead","Shubhankar Gupta",Operations,Delivery,22.35
+PCG0148,"Rahul Satal","Individual Contributor","Nitin More",Engineering,Delivery,77.00
+PCG0119,"Swagata Gupta","Senior Individual Contributor","Amit Gandhi",Engineering,Delivery,41.39
+PCG0140,"Pinal Shah","Senior Individual Contributor","Nikhil Mehta",Operations,Delivery,42.36
+PCG0102,"Swapnil Chaudhary","Senior Individual Contributor","Abhishek Jain",Operations,Delivery,43.57
+PCG0047,"Nikhil Mehta","Team Lead","Santoshkumar Vishnupurikar",Operations,Delivery,36.31
+PCG0055,"Ramesh Boddeti","Team Lead","Amit Gandhi",Engineering,Delivery,33.57
+PCG0104,"Shubham Singh","Individual Contributor","Shama Ugale",Operations,Delivery,32.50
+PCG0016,"Rohan Pandhare","Senior Individual Contributor","Hariom Patel",Engineering,Delivery,37.39
+PCG0008,"Akhilesh Upadhyay","Senior Individual Contributor","Nitin More",Engineering,Delivery,38.89
+PCG0145,"Aneesh Prabhakaran","Senior Individual Contributor","Abhishek Jain",Operations,Delivery,55.07
+PCG0111,"Karan Kale","Senior Individual Contributor","Abhishek Jain",Operations,Delivery,51.07
+PCG0105,"Pooja Neema","Individual Contributor","Manojkumar Ranganathan",Operations,Delivery,54.28
+PCG0020,"Vikas Arora","Team Lead","Amit Gandhi",Operations,Delivery,31.00
+PCG0057,"Nitin More","Team Lead","Abhishek Awale",Engineering,Delivery,22.82
+PCG0120,"Anand Soni","Senior Individual Contributor","Abhishek Jain",Operations,Delivery,43.82
+PCG0014,"Santosh Ganapa","Senior Individual Contributor","Hariom Patel",Engineering,Delivery,37.39
+PCG0039,"Nidhi Shah","Individual Contributor","Piyush Neema",Engineering,Delivery,99.00
+PCG0128,"Madhu Gunji","Individual Contributor","Shama Ugale",Operations,Delivery,22.50
+PCG0036,"Martandappa Kallimani","Senior Individual Contributor","Vikas Arora",Operations,Delivery,48.68
+PCG0064,"Piyush Neema","Team Lead","Abhishek Awale",Engineering,Delivery,31.82
+PCG0123,"Tabassum Mujawar","Team Lead","Amit Gandhi",Operations,Delivery,36.83
+PCG0136,"Milind Kagdelwar","Individual Contributor","Krishna Soni",Engineering,Delivery,75.00
+PCG0121,"Krishna Soni","Team Lead","Abhishek Awale",Engineering,Delivery,22.82
+PCG0026,"Furqan Shaikh","Senior Individual Contributor","Jyoti Brahamkhatri",Operations,Delivery,33.24
+PCG0043,"Amit Jain","Senior Individual Contributor","Vikas Arora",Operations,Delivery,48.99
+PCG0072,"Hariom Patel","Team Lead","Amit Gandhi",Engineering,Delivery,29.57
+PCG0093,"Omkar More","Individual Contributor","Kiran Satpute",Operations,Delivery,47.93
+PCG0139,"Prajakta Deo","Senior Individual Contributor","Piyush Neema",Engineering,Delivery,34.89
+PCG0042,"Abhishek Aggarwal","Team Lead","Amit Gandhi",Engineering,Delivery,32.22
+PCG0031,"Harender Singh","Senior Individual Contributor","Nikhil Mehta",Operations,Delivery,34.40
+PCG0032,"Vishal Nare","Individual Contributor","Jyoti Brahamkhatri",Operations,Delivery,68.80
+PCG0045,"Abhishek Singh","Team Lead","Navin Theruvingal",Engineering,Delivery,22.67
+PCG0038,"Kapil Nimje","Team Lead","Navin Theruvingal",Engineering,Delivery,26.32
+PCG0094,"Harshad Wagh","Senior Individual Contributor","Kiran Satpute",Operations,Delivery,41.32
+PCG0053,"Cyrin Sam","Individual Contributor","Abhishek Aggarwal",Engineering,Delivery,88.50
+PCG0051,"Shivkumar  Vishnupurikar","Senior Individual Contributor","Abhishek Jain",Operations,Delivery,41.57
+PCG0059,"Kratika Gautam","Individual Contributor","Piyush Neema",Engineering,Delivery,76.00
+PCG0011,"Swananad Patil","Team Lead","Amit Gandhi",Engineering,Delivery,25.32
+PCG0095,"Gagandeep Negi","Individual Contributor","Kiran Satpute",Operations,Delivery,62.05
+PCG0098,"Amitkumar Ukirade","Senior Individual Contributor","Abhishek Aggarwal",Engineering,Delivery,40.39
+PCG0062,"Monika Ballari","Individual Contributor","Abhishek Jain",Operations,Delivery,75.47
+PCG0079,"Shriprasad Patil","Individual Contributor","Piyush Neema",Engineering,Delivery,85.00
+PCG0022,"Anup Paithankar","Senior Individual Contributor","Swananad Patil",Engineering,Delivery,30.89
+PCG0128,"Madhu Gunji","Individual Contributor","Shama Ugale",Operations,Customer,7.50
+PCG0132,"Nilesh Sutar","Senior Individual Contributor","Abhishek Singh",Engineering,Customer,21.56
+PCG0120,"Anand Soni","Senior Individual Contributor","Abhishek Jain",Operations,Customer,21.56
+PCG0140,"Pinal Shah","Senior Individual Contributor","Nikhil Mehta",Operations,Customer,21.56
+PCG0034,"Jyoti Brahamkhatri","Team Lead","Santoshkumar Vishnupurikar",Operations,Customer,17.78
+PCG0098,"Amitkumar Ukirade","Senior Individual Contributor","Abhishek Aggarwal",Engineering,Customer,17.81
+PCG0026,"Furqan Shaikh","Senior Individual Contributor","Jyoti Brahamkhatri",Operations,Customer,21.56
+PCG0032,"Vishal Nare","Individual Contributor","Jyoti Brahamkhatri",Operations,Customer,7.50
+PCG0148,"Rahul Satal","Individual Contributor","Nitin More",Engineering,Customer,7.50
+PCG0123,"Tabassum Mujawar","Team Lead","Amit Gandhi",Operations,Customer,17.78
+PCG0101,"Nishikant Nipane","Senior Individual Contributor","Abhishek Aggarwal",Engineering,Customer,17.81
+PCG0145,"Aneesh Prabhakaran","Senior Individual Contributor","Abhishek Jain",Operations,Customer,24.38
+PCG0038,"Kapil Nimje","Team Lead","Navin Theruvingal",Engineering,Customer,17.78
+PCG0031,"Harender Singh","Senior Individual Contributor","Nikhil Mehta",Operations,Customer,21.56
+PCG0056,"Reema Vishwani","Individual Contributor","Manojkumar Ranganathan",Operations,Customer,7.50
+PCG0016,"Rohan Pandhare","Senior Individual Contributor","Hariom Patel",Engineering,Customer,21.56
+PCG0008,"Akhilesh Upadhyay","Senior Individual Contributor","Nitin More",Engineering,Customer,21.56
+PCG0052,"Shama Ugale","Team Lead","Shubhankar Gupta",Operations,Customer,17.78
+PCG0021,"Omkar Khatavkar","Senior Individual Contributor","Abhishek Awale",Engineering,Customer,21.56
+PCG0076,"Yuvraj Mete","Individual Contributor","Manojkumar Ranganathan",Operations,Customer,7.50
+PCG0051,"Shivkumar  Vishnupurikar","Senior Individual Contributor","Abhishek Jain",Operations,Customer,21.56
+PCG0014,"Santosh Ganapa","Senior Individual Contributor","Hariom Patel",Engineering,Customer,21.56
+PCG0039,"Nidhi Shah","Individual Contributor","Piyush Neema",Engineering,Customer,7.50
+PCG0047,"Nikhil Mehta","Team Lead","Santoshkumar Vishnupurikar",Operations,Customer,20.00
+PCG0015,"Bharat Devre","Senior Individual Contributor","Abhishek Awale",Engineering,Customer,21.56
+PCG0062,"Monika Ballari","Individual Contributor","Abhishek Jain",Operations,Customer,7.50
+PCG0077,"Tushar Golait","Individual Contributor","Manojkumar Ranganathan",Operations,Customer,7.50
+PCG0045,"Abhishek Singh","Team Lead","Navin Theruvingal",Engineering,Customer,17.78
+PCG0093,"Omkar More","Individual Contributor","Kiran Satpute",Operations,Customer,7.50
+PCG0011,"Swananad Patil","Team Lead","Amit Gandhi",Engineering,Customer,17.78
+PCG0025,"Jinal Gohel","Senior Individual Contributor","Abhishek Awale",Engineering,Customer,21.56
+PCG0063,"Pramod Dubey","Team Lead","Amit Gandhi",Operations,Customer,17.78
+PCG0085,"Raju Muke","Individual Contributor","Shama Ugale",Engineering,Customer,7.50
+PCG0059,"Kratika Gautam","Individual Contributor","Piyush Neema",Engineering,Customer,7.50
+PCG0094,"Harshad Wagh","Senior Individual Contributor","Kiran Satpute",Operations,Customer,21.56
+PCG0020,"Vikas Arora","Team Lead","Amit Gandhi",Operations,Customer,17.78
+PCG0055,"Ramesh Boddeti","Team Lead","Amit Gandhi",Engineering,Customer,17.78
+PCG0067,"Sanjay Pawar","Individual Contributor","Nikhil Mehta",Operations,Customer,7.50
+PCG0086,"Supriya Ladekar","Individual Contributor","Manojkumar Ranganathan",Operations,Customer,7.50
+PCG0095,"Gagandeep Negi","Individual Contributor","Kiran Satpute",Operations,Customer,7.50
+PCG0079,"Shriprasad Patil","Individual Contributor","Piyush Neema",Engineering,Customer,7.50
+PCG0036,"Martandappa Kallimani","Senior Individual Contributor","Vikas Arora",Operations,Customer,21.56
+PCG0057,"Nitin More","Team Lead","Abhishek Awale",Engineering,Customer,17.78
+PCG0073,"Prakash Gore","Senior Individual Contributor","Nikhil Mehta",Operations,Customer,21.56
+PCG0104,"Shubham Singh","Individual Contributor","Shama Ugale",Operations,Customer,5.63
+PCG0126,"Vishwanath Amonkar","Individual Contributor","Kiran Satpute",Operations,Customer,7.50
+PCG0087,"Jignashaben  Patel","Individual Contributor","Piyush Neema",Engineering,Customer,7.50
+PCG0043,"Amit Jain","Senior Individual Contributor","Vikas Arora",Operations,Customer,21.56
+PCG0102,"Swapnil Chaudhary","Senior Individual Contributor","Abhishek Jain",Operations,Customer,24.38
+PCG0105,"Pooja Neema","Individual Contributor","Manojkumar Ranganathan",Operations,Customer,7.50
+PCG0068,"Shailendra Singh","Senior Individual Contributor","Jyoti Brahamkhatri",Operations,Customer,7.97
+PCG0089,"Abhijeet Supekar","Individual Contributor","Krishna Soni",Engineering,Customer,7.50
+PCG0121,"Krishna Soni","Team Lead","Abhishek Awale",Engineering,Customer,17.78
+PCG0022,"Anup Paithankar","Senior Individual Contributor","Swananad Patil",Engineering,Customer,21.56
+PCG0111,"Karan Kale","Senior Individual Contributor","Abhishek Jain",Operations,Customer,21.56
+PCG0136,"Milind Kagdelwar","Individual Contributor","Krishna Soni",Engineering,Customer,7.50
+PCG0124,"Pradeep Upadhyay","Senior Individual Contributor","Nitin More",Engineering,Customer,21.56
+PCG0064,"Piyush Neema","Team Lead","Abhishek Awale",Engineering,Customer,17.78
+PCG0042,"Abhishek Aggarwal","Team Lead","Amit Gandhi",Engineering,Customer,17.78
+PCG0116,"Tushar  Bankar","Senior Individual Contributor","Abhishek Singh",Engineering,Customer,21.56
+PCG0119,"Swagata Gupta","Senior Individual Contributor","Amit Gandhi",Engineering,Customer,21.56
+PCG0139,"Prajakta Deo","Senior Individual Contributor","Piyush Neema",Engineering,Customer,21.56
+PCG0072,"Hariom Patel","Team Lead","Amit Gandhi",Engineering,Customer,17.78
+PCG0053,"Cyrin Sam","Individual Contributor","Abhishek Aggarwal",Engineering,Customer,7.50
+PCG0020,"Vikas Arora","Team Lead","Amit Gandhi",Operations,Organization,26.53
+PCG0055,"Ramesh Boddeti","Team Lead","Amit Gandhi",Engineering,Organization,25.78
+PCG0067,"Sanjay Pawar","Individual Contributor","Nikhil Mehta",Operations,Organization,7.70
+PCG0086,"Supriya Ladekar","Individual Contributor","Manojkumar Ranganathan",Operations,Organization,5.70
+PCG0095,"Gagandeep Negi","Individual Contributor","Kiran Satpute",Operations,Organization,6.70
+PCG0079,"Shriprasad Patil","Individual Contributor","Piyush Neema",Engineering,Organization,5.01
+PCG0036,"Martandappa Kallimani","Senior Individual Contributor","Vikas Arora",Operations,Organization,20.97
+PCG0073,"Prakash Gore","Senior Individual Contributor","Nikhil Mehta",Operations,Organization,8.80
+PCG0104,"Shubham Singh","Individual Contributor","Shama Ugale",Operations,Organization,5.70
+PCG0126,"Vishwanath Amonkar","Individual Contributor","Kiran Satpute",Operations,Organization,5.70
+PCG0087,"Jignashaben  Patel","Individual Contributor","Piyush Neema",Engineering,Organization,5.70
+PCG0043,"Amit Jain","Senior Individual Contributor","Vikas Arora",Operations,Organization,20.13
+PCG0102,"Swapnil Chaudhary","Senior Individual Contributor","Abhishek Jain",Operations,Organization,19.10
+PCG0068,"Shailendra Singh","Senior Individual Contributor","Jyoti Brahamkhatri",Operations,Organization,16.00
+PCG0089,"Abhijeet Supekar","Individual Contributor","Krishna Soni",Engineering,Organization,6.35
+PCG0057,"Nitin More","Team Lead","Abhishek Awale",Engineering,Organization,9.53
+PCG0121,"Krishna Soni","Team Lead","Abhishek Awale",Engineering,Organization,16.78
+PCG0022,"Anup Paithankar","Senior Individual Contributor","Swananad Patil",Engineering,Organization,16.93
+PCG0111,"Karan Kale","Senior Individual Contributor","Abhishek Jain",Operations,Organization,21.42
+PCG0136,"Milind Kagdelwar","Individual Contributor","Krishna Soni",Engineering,Organization,5.70
+PCG0064,"Piyush Neema","Team Lead","Abhishek Awale",Engineering,Organization,22.99
+PCG0042,"Abhishek Aggarwal","Team Lead","Amit Gandhi",Engineering,Organization,15.27
+PCG0105,"Pooja Neema","Individual Contributor","Manojkumar Ranganathan",Operations,Organization,5.70
+PCG0116,"Tushar  Bankar","Senior Individual Contributor","Abhishek Singh",Engineering,Organization,9.60
+PCG0119,"Swagata Gupta","Senior Individual Contributor","Amit Gandhi",Engineering,Organization,18.07
+PCG0139,"Prajakta Deo","Senior Individual Contributor","Piyush Neema",Engineering,Organization,20.60
+PCG0072,"Hariom Patel","Team Lead","Amit Gandhi",Engineering,Organization,12.78
+PCG0053,"Cyrin Sam","Individual Contributor","Abhishek Aggarwal",Engineering,Organization,5.70
+PCG0128,"Madhu Gunji","Individual Contributor","Shama Ugale",Operations,Organization,5.70
+PCG0132,"Nilesh Sutar","Senior Individual Contributor","Abhishek Singh",Engineering,Organization,8.10
+PCG0124,"Pradeep Upadhyay","Senior Individual Contributor","Nitin More",Engineering,Organization,7.85
+PCG0120,"Anand Soni","Senior Individual Contributor","Abhishek Jain",Operations,Organization,16.27
+PCG0098,"Amitkumar Ukirade","Senior Individual Contributor","Abhishek Aggarwal",Engineering,Organization,17.30
+PCG0140,"Pinal Shah","Senior Individual Contributor","Nikhil Mehta",Operations,Organization,7.60
+PCG0034,"Jyoti Brahamkhatri","Team Lead","Santoshkumar Vishnupurikar",Operations,Organization,30.61
+PCG0026,"Furqan Shaikh","Senior Individual Contributor","Jyoti Brahamkhatri",Operations,Organization,6.51
+PCG0032,"Vishal Nare","Individual Contributor","Jyoti Brahamkhatri",Operations,Organization,7.70
+PCG0148,"Rahul Satal","Individual Contributor","Nitin More",Engineering,Organization,6.70
+PCG0123,"Tabassum Mujawar","Team Lead","Amit Gandhi",Operations,Organization,39.78
+PCG0101,"Nishikant Nipane","Senior Individual Contributor","Abhishek Aggarwal",Engineering,Organization,24.20
+PCG0145,"Aneesh Prabhakaran","Senior Individual Contributor","Abhishek Jain",Operations,Organization,19.18
+PCG0038,"Kapil Nimje","Team Lead","Navin Theruvingal",Engineering,Organization,16.53
+PCG0056,"Reema Vishwani","Individual Contributor","Manojkumar Ranganathan",Operations,Organization,5.70
+PCG0031,"Harender Singh","Senior Individual Contributor","Nikhil Mehta",Operations,Organization,7.60
+PCG0016,"Rohan Pandhare","Senior Individual Contributor","Hariom Patel",Engineering,Organization,14.60
+PCG0008,"Akhilesh Upadhyay","Senior Individual Contributor","Nitin More",Engineering,Organization,8.60
+PCG0052,"Shama Ugale","Team Lead","Shubhankar Gupta",Operations,Organization,11.67
+PCG0021,"Omkar Khatavkar","Senior Individual Contributor","Abhishek Awale",Engineering,Organization,6.80
+PCG0076,"Yuvraj Mete","Individual Contributor","Manojkumar Ranganathan",Operations,Organization,9.70
+PCG0051,"Shivkumar  Vishnupurikar","Senior Individual Contributor","Abhishek Jain",Operations,Organization,16.60
+PCG0039,"Nidhi Shah","Individual Contributor","Piyush Neema",Engineering,Organization,7.70
+PCG0014,"Santosh Ganapa","Senior Individual Contributor","Hariom Patel",Engineering,Organization,15.60
+PCG0047,"Nikhil Mehta","Team Lead","Santoshkumar Vishnupurikar",Operations,Organization,15.83
+PCG0015,"Bharat Devre","Senior Individual Contributor","Abhishek Awale",Engineering,Organization,9.60
+PCG0062,"Monika Ballari","Individual Contributor","Abhishek Jain",Operations,Organization,12.70
+PCG0077,"Tushar Golait","Individual Contributor","Manojkumar Ranganathan",Operations,Organization,6.43
+PCG0045,"Abhishek Singh","Team Lead","Navin Theruvingal",Engineering,Organization,14.03
+PCG0093,"Omkar More","Individual Contributor","Kiran Satpute",Operations,Organization,5.70
+PCG0011,"Swananad Patil","Team Lead","Amit Gandhi",Engineering,Organization,10.69
+PCG0025,"Jinal Gohel","Senior Individual Contributor","Abhishek Awale",Engineering,Organization,4.40
+PCG0063,"Pramod Dubey","Team Lead","Amit Gandhi",Operations,Organization,8.53
+PCG0085,"Raju Muke","Individual Contributor","Shama Ugale",Engineering,Organization,5.35
+PCG0094,"Harshad Wagh","Senior Individual Contributor","Kiran Satpute",Operations,Organization,11.60
+PCG0059,"Kratika Gautam","Individual Contributor","Piyush Neema",Engineering,Organization,7.70
+PCG0098,"Amitkumar Ukirade","Senior Individual Contributor","Abhishek Aggarwal",Engineering,"Learning and Development",15.00
+PCG0140,"Pinal Shah","Senior Individual Contributor","Nikhil Mehta",Operations,"Learning and Development",6.67
+PCG0034,"Jyoti Brahamkhatri","Team Lead","Santoshkumar Vishnupurikar",Operations,"Learning and Development",16.67
+PCG0032,"Vishal Nare","Individual Contributor","Jyoti Brahamkhatri",Operations,"Learning and Development",10.00
+PCG0026,"Furqan Shaikh","Senior Individual Contributor","Jyoti Brahamkhatri",Operations,"Learning and Development",0.00
+PCG0148,"Rahul Satal","Individual Contributor","Nitin More",Engineering,"Learning and Development",1.67
+PCG0123,"Tabassum Mujawar","Team Lead","Amit Gandhi",Operations,"Learning and Development",22.50
+PCG0038,"Kapil Nimje","Team Lead","Navin Theruvingal",Engineering,"Learning and Development",1.67
+PCG0101,"Nishikant Nipane","Senior Individual Contributor","Abhishek Aggarwal",Engineering,"Learning and Development",21.67
+PCG0145,"Aneesh Prabhakaran","Senior Individual Contributor","Abhishek Jain",Operations,"Learning and Development",0.00
+PCG0056,"Reema Vishwani","Individual Contributor","Manojkumar Ranganathan",Operations,"Learning and Development",1.67
+PCG0031,"Harender Singh","Senior Individual Contributor","Nikhil Mehta",Operations,"Learning and Development",0.00
+PCG0016,"Rohan Pandhare","Senior Individual Contributor","Hariom Patel",Engineering,"Learning and Development",15.00
+PCG0008,"Akhilesh Upadhyay","Senior Individual Contributor","Nitin More",Engineering,"Learning and Development",1.67
+PCG0052,"Shama Ugale","Team Lead","Shubhankar Gupta",Operations,"Learning and Development",1.67
+PCG0021,"Omkar Khatavkar","Senior Individual Contributor","Abhishek Awale",Engineering,"Learning and Development",1.67
+PCG0051,"Shivkumar  Vishnupurikar","Senior Individual Contributor","Abhishek Jain",Operations,"Learning and Development",15.00
+PCG0076,"Yuvraj Mete","Individual Contributor","Manojkumar Ranganathan",Operations,"Learning and Development",3.33
+PCG0039,"Nidhi Shah","Individual Contributor","Piyush Neema",Engineering,"Learning and Development",3.33
+PCG0014,"Santosh Ganapa","Senior Individual Contributor","Hariom Patel",Engineering,"Learning and Development",15.00
+PCG0047,"Nikhil Mehta","Team Lead","Santoshkumar Vishnupurikar",Operations,"Learning and Development",12.50
+PCG0015,"Bharat Devre","Senior Individual Contributor","Abhishek Awale",Engineering,"Learning and Development",3.33
+PCG0062,"Monika Ballari","Individual Contributor","Abhishek Jain",Operations,"Learning and Development",1.67
+PCG0077,"Tushar Golait","Individual Contributor","Manojkumar Ranganathan",Operations,"Learning and Development",3.33
+PCG0093,"Omkar More","Individual Contributor","Kiran Satpute",Operations,"Learning and Development",1.67
+PCG0045,"Abhishek Singh","Team Lead","Navin Theruvingal",Engineering,"Learning and Development",11.67
+PCG0011,"Swananad Patil","Team Lead","Amit Gandhi",Engineering,"Learning and Development",0.00
+PCG0025,"Jinal Gohel","Senior Individual Contributor","Abhishek Awale",Engineering,"Learning and Development",0.00
+PCG0063,"Pramod Dubey","Team Lead","Amit Gandhi",Operations,"Learning and Development",6.67
+PCG0085,"Raju Muke","Individual Contributor","Shama Ugale",Engineering,"Learning and Development",11.67
+PCG0094,"Harshad Wagh","Senior Individual Contributor","Kiran Satpute",Operations,"Learning and Development",2.50
+PCG0059,"Kratika Gautam","Individual Contributor","Piyush Neema",Engineering,"Learning and Development",1.67
+PCG0020,"Vikas Arora","Team Lead","Amit Gandhi",Operations,"Learning and Development",12.50
+PCG0067,"Sanjay Pawar","Individual Contributor","Nikhil Mehta",Operations,"Learning and Development",3.33
+PCG0086,"Supriya Ladekar","Individual Contributor","Manojkumar Ranganathan",Operations,"Learning and Development",1.67
+PCG0095,"Gagandeep Negi","Individual Contributor","Kiran Satpute",Operations,"Learning and Development",5.00
+PCG0079,"Shriprasad Patil","Individual Contributor","Piyush Neema",Engineering,"Learning and Development",6.67
+PCG0036,"Martandappa Kallimani","Senior Individual Contributor","Vikas Arora",Operations,"Learning and Development",20.00
+PCG0073,"Prakash Gore","Senior Individual Contributor","Nikhil Mehta",Operations,"Learning and Development",3.33
+PCG0126,"Vishwanath Amonkar","Individual Contributor","Kiran Satpute",Operations,"Learning and Development",1.67
+PCG0087,"Jignashaben  Patel","Individual Contributor","Piyush Neema",Engineering,"Learning and Development",1.67
+PCG0055,"Ramesh Boddeti","Team Lead","Amit Gandhi",Engineering,"Learning and Development",10.00
+PCG0043,"Amit Jain","Senior Individual Contributor","Vikas Arora",Operations,"Learning and Development",10.83
+PCG0102,"Swapnil Chaudhary","Senior Individual Contributor","Abhishek Jain",Operations,"Learning and Development",7.50
+PCG0068,"Shailendra Singh","Senior Individual Contributor","Jyoti Brahamkhatri",Operations,"Learning and Development",7.50
+PCG0057,"Nitin More","Team Lead","Abhishek Awale",Engineering,"Learning and Development",1.67
+PCG0121,"Krishna Soni","Team Lead","Abhishek Awale",Engineering,"Learning and Development",10.00
+PCG0104,"Shubham Singh","Individual Contributor","Shama Ugale",Operations,"Learning and Development",1.67
+PCG0022,"Anup Paithankar","Senior Individual Contributor","Swananad Patil",Engineering,"Learning and Development",3.33
+PCG0111,"Karan Kale","Senior Individual Contributor","Abhishek Jain",Operations,"Learning and Development",12.50
+PCG0136,"Milind Kagdelwar","Individual Contributor","Krishna Soni",Engineering,"Learning and Development",3.33
+PCG0064,"Piyush Neema","Team Lead","Abhishek Awale",Engineering,"Learning and Development",5.00
+PCG0042,"Abhishek Aggarwal","Team Lead","Amit Gandhi",Engineering,"Learning and Development",3.33
+PCG0105,"Pooja Neema","Individual Contributor","Manojkumar Ranganathan",Operations,"Learning and Development",3.33
+PCG0116,"Tushar  Bankar","Senior Individual Contributor","Abhishek Singh",Engineering,"Learning and Development",1.67
+PCG0089,"Abhijeet Supekar","Individual Contributor","Krishna Soni",Engineering,"Learning and Development",0.00
+PCG0119,"Swagata Gupta","Senior Individual Contributor","Amit Gandhi",Engineering,"Learning and Development",16.67
+PCG0053,"Cyrin Sam","Individual Contributor","Abhishek Aggarwal",Engineering,"Learning and Development",1.67
+PCG0139,"Prajakta Deo","Senior Individual Contributor","Piyush Neema",Engineering,"Learning and Development",1.67
+PCG0072,"Hariom Patel","Team Lead","Amit Gandhi",Engineering,"Learning and Development",6.67
+PCG0128,"Madhu Gunji","Individual Contributor","Shama Ugale",Operations,"Learning and Development",0.00
+PCG0132,"Nilesh Sutar","Senior Individual Contributor","Abhishek Singh",Engineering,"Learning and Development",6.67
+PCG0124,"Pradeep Upadhyay","Senior Individual Contributor","Nitin More",Engineering,"Learning and Development",8.33
+PCG0120,"Anand Soni","Senior Individual Contributor","Abhishek Jain",Operations,"Learning and Development",3.33

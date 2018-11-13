@@ -1,0 +1,19 @@
+<?php
+
+use Illuminate\Database\Seeder;
+
+class SubkpisTableSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        DB::table('subkpis')->insert([
+        	['name' => 'Code review', 'description' => 'This is code review'],
+        	['name' => 'Basic Project Governance', 'description' => 'This is Basic Project Governance']
+        ]);
+    }
+}
